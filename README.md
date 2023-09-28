@@ -1,3 +1,5 @@
+# Movie info app in react native consuming an api
+
 Register and generate yout API key <br>
 https://www.themoviedb.org/login?to=read_me&redirect=%2Fdocs<br>
 
